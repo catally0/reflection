@@ -1,0 +1,4 @@
+初始化版本库时会发生什么情况？为什么你需要这样做？
+	创建.git文件夹。初始化以后才可以commit，查看log，即其他git相关的功能
+暂存区与工作目录和版本库有何不同？你认为它具有什么价值？
+	staging area give an option that people can choose to commit part of the changes in the working directory, which belongs to the same logic, instead of commit all the changes, which may contains multiple logics.
